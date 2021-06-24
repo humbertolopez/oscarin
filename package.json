@@ -1,0 +1,19 @@
+{
+  "name": "oscarin",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.14.0",
+    "@nuxt/http": "^0.6.4",
+    "nuxt": "^2.15.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.1.0",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.14"
+  }
+}
